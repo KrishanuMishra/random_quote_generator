@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font: 1em Arial, sans-serif;
+    color: red;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top:22% ;
+}
+
+h1:hover{
+    cursor: pointer;
+}
+
+p{
+    padding-left: 1200px;
+    color: red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+span{
+    color: cornsilk;
+}
